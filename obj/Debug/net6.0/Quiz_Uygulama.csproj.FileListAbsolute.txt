@@ -1,0 +1,15 @@
+C:\Users\dilan\OneDrive\Masaüstü\OOP\Quiz_Uygulama\bin\Debug\net6.0\Quiz_Uygulama.exe
+C:\Users\dilan\OneDrive\Masaüstü\OOP\Quiz_Uygulama\bin\Debug\net6.0\Quiz_Uygulama.deps.json
+C:\Users\dilan\OneDrive\Masaüstü\OOP\Quiz_Uygulama\bin\Debug\net6.0\Quiz_Uygulama.runtimeconfig.json
+C:\Users\dilan\OneDrive\Masaüstü\OOP\Quiz_Uygulama\bin\Debug\net6.0\Quiz_Uygulama.dll
+C:\Users\dilan\OneDrive\Masaüstü\OOP\Quiz_Uygulama\bin\Debug\net6.0\Quiz_Uygulama.pdb
+C:\Users\dilan\OneDrive\Masaüstü\OOP\Quiz_Uygulama\obj\Debug\net6.0\Quiz_Uygulama.csproj.AssemblyReference.cache
+C:\Users\dilan\OneDrive\Masaüstü\OOP\Quiz_Uygulama\obj\Debug\net6.0\Quiz_Uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilan\OneDrive\Masaüstü\OOP\Quiz_Uygulama\obj\Debug\net6.0\Quiz_Uygulama.AssemblyInfoInputs.cache
+C:\Users\dilan\OneDrive\Masaüstü\OOP\Quiz_Uygulama\obj\Debug\net6.0\Quiz_Uygulama.AssemblyInfo.cs
+C:\Users\dilan\OneDrive\Masaüstü\OOP\Quiz_Uygulama\obj\Debug\net6.0\Quiz_Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\dilan\OneDrive\Masaüstü\OOP\Quiz_Uygulama\obj\Debug\net6.0\Quiz_Uygulama.dll
+C:\Users\dilan\OneDrive\Masaüstü\OOP\Quiz_Uygulama\obj\Debug\net6.0\refint\Quiz_Uygulama.dll
+C:\Users\dilan\OneDrive\Masaüstü\OOP\Quiz_Uygulama\obj\Debug\net6.0\Quiz_Uygulama.pdb
+C:\Users\dilan\OneDrive\Masaüstü\OOP\Quiz_Uygulama\obj\Debug\net6.0\Quiz_Uygulama.genruntimeconfig.cache
+C:\Users\dilan\OneDrive\Masaüstü\OOP\Quiz_Uygulama\obj\Debug\net6.0\ref\Quiz_Uygulama.dll
